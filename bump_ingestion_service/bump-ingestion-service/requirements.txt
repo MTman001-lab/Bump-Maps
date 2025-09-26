@@ -1,0 +1,6 @@
+paho-mqtt
+SQLAlchemy
+geopy
+jsonschema
+pytest
+psycopg2-binary
