@@ -2,6 +2,7 @@ from sqlalchemy import create_engine, Column, String, Float, Integer, Enum, TIME
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker
 import enum
+from config import DB_URL
 
 Base = declarative_base()
 
