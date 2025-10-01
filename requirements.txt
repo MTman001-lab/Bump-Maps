@@ -8,3 +8,8 @@ python-jose
 passlib[bcrypt]
 alembic
 slowapi
+bcrypt
+pydantic
+pydantic-settings
+python-multipart
+httpx
