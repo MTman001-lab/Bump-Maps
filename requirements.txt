@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2
+geoalchemy2
+shapely
+python-jose
+passlib[bcrypt]
+alembic
+slowapi
